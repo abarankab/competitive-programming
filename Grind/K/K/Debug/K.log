@@ -1,0 +1,76 @@
+﻿  K.cpp
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(28): warning C4800: 'long double': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(33): error C2058: constant expression is not integral
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(33): warning C4244: 'initializing': conversion from 'const long double' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(33): error C2540: non-constant expression as array bound
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(34): error C2058: constant expression is not integral
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(34): warning C4244: 'initializing': conversion from 'const long double' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(34): error C2540: non-constant expression as array bound
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(35): error C2058: constant expression is not integral
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(35): warning C4244: 'initializing': conversion from 'const long double' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(35): error C2540: non-constant expression as array bound
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(40): error C2108: subscript is not of integral type
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(41): error C2108: subscript is not of integral type
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(42): error C2108: subscript is not of integral type
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(44): error C2065: 'u': undeclared identifier
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(44): error C2228: left of '.to' must have class/struct/union
+  c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(44): note: type is 'unknown-type'
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(46): error C2065: 'u': undeclared identifier
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(46): error C2228: left of '.to' must have class/struct/union
+  c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(46): note: type is 'unknown-type'
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(47): error C2108: subscript is not of integral type
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(47): error C2065: 'u': undeclared identifier
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(47): error C2228: left of '.to' must have class/struct/union
+  c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(47): note: type is 'unknown-type'
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(54): error C2108: subscript is not of integral type
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(56): error C2065: 'u': undeclared identifier
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(56): error C2228: left of '.to' must have class/struct/union
+  c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(56): note: type is 'unknown-type'
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(58): error C2065: 'u': undeclared identifier
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(58): error C2228: left of '.to' must have class/struct/union
+  c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(58): note: type is 'unknown-type'
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(59): error C2065: 'u': undeclared identifier
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(59): error C2228: left of '.val' must have class/struct/union
+  c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(59): note: type is 'unknown-type'
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(59): error C2108: subscript is not of integral type
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(59): error C2228: left of '.to' must have class/struct/union
+  c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(59): note: type is 'unknown-type'
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(66): error C2108: subscript is not of integral type
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(67): error C2108: subscript is not of integral type
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(68): error C2108: subscript is not of integral type
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(70): error C2065: 'u': undeclared identifier
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(70): error C2228: left of '.to' must have class/struct/union
+  c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(70): note: type is 'unknown-type'
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(72): error C2065: 'u': undeclared identifier
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(72): error C2228: left of '.to' must have class/struct/union
+  c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(72): note: type is 'unknown-type'
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(73): error C2108: subscript is not of integral type
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(73): error C2065: 'u': undeclared identifier
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(73): error C2228: left of '.to' must have class/struct/union
+  c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(73): note: type is 'unknown-type'
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(80): error C2108: subscript is not of integral type
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(82): error C2065: 'u': undeclared identifier
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(82): error C2228: left of '.to' must have class/struct/union
+  c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(82): note: type is 'unknown-type'
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(84): error C2065: 'u': undeclared identifier
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(84): error C2228: left of '.to' must have class/struct/union
+  c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(84): note: type is 'unknown-type'
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(85): error C2065: 'u': undeclared identifier
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(85): error C2228: left of '.val' must have class/struct/union
+  c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(85): note: type is 'unknown-type'
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(85): error C2108: subscript is not of integral type
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(85): error C2228: left of '.to' must have class/struct/union
+  c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(85): note: type is 'unknown-type'
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(91): error C3874: return type of 'main' should be 'int' instead of 'long double'
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(100): error C2108: subscript is not of integral type
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(100): error C2228: left of '.push_back' must have class/struct/union
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(101): error C2108: subscript is not of integral type
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(101): error C2228: left of '.push_back' must have class/struct/union
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(103): error C2108: subscript is not of integral type
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(103): error C2228: left of '.push_back' must have class/struct/union
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(104): error C2108: subscript is not of integral type
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(104): error C2228: left of '.push_back' must have class/struct/union
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(109): error C2108: subscript is not of integral type
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(113): error C2108: subscript is not of integral type
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(116): warning C4244: 'argument': conversion from 'long double' to 'std::size_t', possible loss of data
+c:\users\baran\desktop\prog\losh2018\grind\k\k\k.cpp(117): warning C4244: 'argument': conversion from 'long double' to 'std::size_t', possible loss of data

@@ -1,0 +1,4 @@
+﻿  O.cpp
+c:\users\baran\desktop\prog\losh2018\grind\o\o\o.cpp(10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  O.vcxproj -> C:\Users\baran\Desktop\prog\losh2018\Grind\O\Debug\O.exe
+  O.vcxproj -> C:\Users\baran\Desktop\prog\losh2018\Grind\O\Debug\O.pdb (Full PDB)

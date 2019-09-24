@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\baran\desktop\prog\grind\cf\546\a\a\source.cpp(10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  A.vcxproj -> C:\Users\baran\Desktop\prog\grind\cf\546\A\Debug\A.exe
+  A.vcxproj -> C:\Users\baran\Desktop\prog\grind\cf\546\A\Debug\A.pdb (Partial PDB)

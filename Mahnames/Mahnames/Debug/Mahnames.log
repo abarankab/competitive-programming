@@ -1,0 +1,6 @@
+﻿  Mahnames.cpp
+c:\users\baran\desktop\prog\school_olymp\mahnames\mahnames\mahnames.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\mahnames\mahnames\mahnames.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\mahnames\mahnames\mahnames.cpp(30): warning C4018: '<': signed/unsigned mismatch
+  Mahnames.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\Mahnames\Debug\Mahnames.exe
+  Mahnames.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\Mahnames\Debug\Mahnames.pdb (Full PDB)

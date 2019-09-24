@@ -1,0 +1,5 @@
+﻿  GEOM.cpp
+c:\users\baran\desktop\prog\losh2018\grind\geom\geom\geom.cpp(189): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\losh2018\grind\geom\geom\geom.cpp(211): warning C4018: '<': signed/unsigned mismatch
+  GEOM.vcxproj -> C:\Users\baran\Desktop\prog\losh2018\Grind\GEOM\Debug\GEOM.exe
+  GEOM.vcxproj -> C:\Users\baran\Desktop\prog\losh2018\Grind\GEOM\Debug\GEOM.pdb (Full PDB)

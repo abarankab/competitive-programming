@@ -1,0 +1,4 @@
+﻿  Last_D.cpp
+c:\users\baran\desktop\prog\losh2018\last_d\last_d\last_d.cpp(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Last_D.vcxproj -> C:\Users\baran\Desktop\prog\losh2018\Last_D\Debug\Last_D.exe
+  Last_D.vcxproj -> C:\Users\baran\Desktop\prog\losh2018\Last_D\Debug\Last_D.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  VOS2016.cpp
+c:\users\baran\desktop\prog\school_olymp\vos2016\vos2016\vos2016.cpp(19): warning C4068: unknown pragma
+c:\users\baran\desktop\prog\school_olymp\vos2016\vos2016\vos2016.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\vos2016\vos2016\vos2016.cpp(59): warning C4018: '<': signed/unsigned mismatch
+  VOS2016.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\VOS2016\Debug\VOS2016.exe
+  VOS2016.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\VOS2016\Debug\VOS2016.pdb (Full PDB)

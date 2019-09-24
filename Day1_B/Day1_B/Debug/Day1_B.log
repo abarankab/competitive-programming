@@ -1,0 +1,5 @@
+﻿  Day1_B.cpp
+c:\users\baran\desktop\prog\losh2018\day1_b\day1_b\day1_b.cpp(25): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\baran\desktop\prog\losh2018\day1_b\day1_b\day1_b.cpp(103): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Day1_B.vcxproj -> C:\Users\baran\Desktop\prog\losh2018\Day1_B\Debug\Day1_B.exe
+  Day1_B.vcxproj -> C:\Users\baran\Desktop\prog\losh2018\Day1_B\Debug\Day1_B.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  Fockb.cpp
+c:\users\baran\desktop\prog\school_olymp\fockb\fockb\fockb.cpp(12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Fockb.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\Fockb\Debug\Fockb.exe
+  Fockb.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\Fockb\Debug\Fockb.pdb (Full PDB)

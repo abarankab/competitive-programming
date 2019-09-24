@@ -1,0 +1,21 @@
+﻿  14022018.cpp
+c:\users\baran\desktop\prog\school_olymp\14022018\14022018\14022018.cpp(22): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\14022018\14022018\14022018.cpp(23): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\14022018\14022018\14022018.cpp(24): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\14022018\14022018\14022018.cpp(27): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\14022018\14022018\14022018.cpp(28): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\14022018\14022018\14022018.cpp(32): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\14022018\14022018\14022018.cpp(33): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\14022018\14022018\14022018.cpp(37): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\14022018\14022018\14022018.cpp(38): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\14022018\14022018\14022018.cpp(57): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\14022018\14022018\14022018.cpp(61): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\14022018\14022018\14022018.cpp(66): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\14022018\14022018\14022018.cpp(76): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\14022018\14022018\14022018.cpp(80): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\14022018\14022018\14022018.cpp(85): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\14022018\14022018\14022018.cpp(95): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\14022018\14022018\14022018.cpp(99): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\14022018\14022018\14022018.cpp(104): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+  14022018.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\14022018\Debug\14022018.exe
+  14022018.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\14022018\Debug\14022018.pdb (Full PDB)

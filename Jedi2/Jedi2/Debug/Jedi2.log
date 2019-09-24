@@ -1,0 +1,16 @@
+﻿  Jedi2.cpp
+c:\users\baran\desktop\prog\school_olymp\jedi2\jedi2\jedi2.cpp(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\jedi2\jedi2\jedi2.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\jedi2\jedi2\jedi2.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\jedi2\jedi2\jedi2.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\jedi2\jedi2\jedi2.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\jedi2\jedi2\jedi2.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\jedi2\jedi2\jedi2.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\jedi2\jedi2\jedi2.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\jedi2\jedi2\jedi2.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\jedi2\jedi2\jedi2.cpp(142): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\jedi2\jedi2\jedi2.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\jedi2\jedi2\jedi2.cpp(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\jedi2\jedi2\jedi2.cpp(171): warning C4018: '<': signed/unsigned mismatch
+  Jedi2.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\Jedi2\Debug\Jedi2.exe
+  Jedi2.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\Jedi2\Debug\Jedi2.pdb (Full PDB)

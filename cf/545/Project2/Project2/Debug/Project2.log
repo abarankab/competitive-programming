@@ -1,0 +1,3 @@
+﻿  Source1.cpp
+Source1.obj : error LNK2005: _main already defined in Source.obj
+C:\Users\baran\Desktop\prog\grind\cf\545\Project2\Debug\Project2.exe : fatal error LNK1169: one or more multiply defined symbols found

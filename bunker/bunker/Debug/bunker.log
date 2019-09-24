@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  bunker.cpp
+c:\users\baran\desktop\prog\school_olymp\bunker\bunker\bunker.cpp(53): warning C4018: <: несоответствие типов со знаком и без знака
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\algorithm(2798): error C2672: "operator __surrogate_func": не найдена соответствующая перегруженная функция
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\algorithm(2816): note: выполняется компиляция ссылки на экземпляр шаблон функции "_FwdIt std::upper_bound<_FwdIt,_Ty,std::less<void>>(_FwdIt,_FwdIt,const _Ty &,_Pr)"
+          with
+          [
+              _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::pair<int,int>>>>,
+              _Ty=int,
+              _Pr=std::less<void>
+          ]
+  c:\users\baran\desktop\prog\school_olymp\bunker\bunker\bunker.cpp(69): note: выполняется компиляция ссылки на экземпляр шаблон функции "_FwdIt std::upper_bound<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,int>(_FwdIt,_FwdIt,const int &)"
+          with
+          [
+              _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::pair<int,int>>>>,
+              _Ty=std::pair<int,int>
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\algorithm(2798): error C2893: Сбой при специализации функции-шаблона "unknown-type std::less<void>::operator ()(_Ty1 &&,_Ty2 &&) const"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\algorithm(2798): note: Со следующими аргументами шаблона:
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\algorithm(2798): note: "_Ty1=const int &"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\algorithm(2798): note: "_Ty2=std::pair<int,int> &"

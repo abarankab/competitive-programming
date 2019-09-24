@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ioip2", "ioip2\ioip2.vcxproj", "{AED0B23E-06EE-4090-B2C4-993BFA2DB940}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AED0B23E-06EE-4090-B2C4-993BFA2DB940}.Debug|x64.ActiveCfg = Debug|x64
+		{AED0B23E-06EE-4090-B2C4-993BFA2DB940}.Debug|x64.Build.0 = Debug|x64
+		{AED0B23E-06EE-4090-B2C4-993BFA2DB940}.Debug|x86.ActiveCfg = Debug|Win32
+		{AED0B23E-06EE-4090-B2C4-993BFA2DB940}.Debug|x86.Build.0 = Debug|Win32
+		{AED0B23E-06EE-4090-B2C4-993BFA2DB940}.Release|x64.ActiveCfg = Release|x64
+		{AED0B23E-06EE-4090-B2C4-993BFA2DB940}.Release|x64.Build.0 = Release|x64
+		{AED0B23E-06EE-4090-B2C4-993BFA2DB940}.Release|x86.ActiveCfg = Release|Win32
+		{AED0B23E-06EE-4090-B2C4-993BFA2DB940}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B213CC1-2C30-45FF-98F9-E185FE46E981}
+	EndGlobalSection
+EndGlobal

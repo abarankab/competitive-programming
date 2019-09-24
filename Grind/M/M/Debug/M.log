@@ -1,0 +1,4 @@
+﻿  M.cpp
+c:\users\baran\desktop\prog\losh2018\grind\m\m\m.cpp(11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  M.vcxproj -> C:\Users\baran\Desktop\prog\losh2018\Grind\M\Debug\M.exe
+  M.vcxproj -> C:\Users\baran\Desktop\prog\losh2018\Grind\M\Debug\M.pdb (Full PDB)

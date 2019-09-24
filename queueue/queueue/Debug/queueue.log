@@ -1,0 +1,4 @@
+﻿  queueue.cpp
+c:\users\baran\desktop\prog\school_olymp\queueue\queueue\queueue.cpp(21): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\queueue\queueue\queueue.cpp(30): error C2059: syntax error: ')'
+c:\users\baran\desktop\prog\school_olymp\queueue\queueue\queueue.cpp(33): error C2143: syntax error: missing ';' before '{'

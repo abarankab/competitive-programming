@@ -1,0 +1,4 @@
+﻿  Day1_D.cpp
+c:\users\baran\desktop\prog\losh2018\day1_d\day1_d\day1_d.cpp(42): warning C4018: '<': signed/unsigned mismatch
+  Day1_D.vcxproj -> C:\Users\baran\Desktop\prog\losh2018\Day1_D\Debug\Day1_D.exe
+  Day1_D.vcxproj -> C:\Users\baran\Desktop\prog\losh2018\Day1_D\Debug\Day1_D.pdb (Full PDB)

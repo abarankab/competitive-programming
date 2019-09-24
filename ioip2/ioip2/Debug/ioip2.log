@@ -1,0 +1,21 @@
+﻿  ioip2.cpp
+c:\users\baran\desktop\prog\school_olymp\ioip2\ioip2\ioip2.cpp(26): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\baran\desktop\prog\school_olymp\ioip2\ioip2\ioip2.cpp(27): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\baran\desktop\prog\school_olymp\ioip2\ioip2\ioip2.cpp(47): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\baran\desktop\prog\school_olymp\ioip2\ioip2\ioip2.cpp(49): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\baran\desktop\prog\school_olymp\ioip2\ioip2\ioip2.cpp(51): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\baran\desktop\prog\school_olymp\ioip2\ioip2\ioip2.cpp(53): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\baran\desktop\prog\school_olymp\ioip2\ioip2\ioip2.cpp(55): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\baran\desktop\prog\school_olymp\ioip2\ioip2\ioip2.cpp(57): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\baran\desktop\prog\school_olymp\ioip2\ioip2\ioip2.cpp(72): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\baran\desktop\prog\school_olymp\ioip2\ioip2\ioip2.cpp(74): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\baran\desktop\prog\school_olymp\ioip2\ioip2\ioip2.cpp(76): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\baran\desktop\prog\school_olymp\ioip2\ioip2\ioip2.cpp(78): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\baran\desktop\prog\school_olymp\ioip2\ioip2\ioip2.cpp(99): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\baran\desktop\prog\school_olymp\ioip2\ioip2\ioip2.cpp(101): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\baran\desktop\prog\school_olymp\ioip2\ioip2\ioip2.cpp(103): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\baran\desktop\prog\school_olymp\ioip2\ioip2\ioip2.cpp(105): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\baran\desktop\prog\school_olymp\ioip2\ioip2\ioip2.cpp(119): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\baran\desktop\prog\school_olymp\ioip2\ioip2\ioip2.cpp(121): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+c:\users\baran\desktop\prog\school_olymp\ioip2\ioip2\ioip2.cpp(123): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+  ioip2.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\ioip2\Debug\ioip2.exe

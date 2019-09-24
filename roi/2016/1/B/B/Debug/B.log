@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\baran\desktop\prog\grind\roi\2016\1\b\b\source.cpp(10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\baran\desktop\prog\grind\roi\2016\1\b\b\source.cpp(11): warning C4244: 'initializing': conversion from 'double' to 'll', possible loss of data
+c:\users\baran\desktop\prog\grind\roi\2016\1\b\b\source.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'll', possible loss of data
+  B.vcxproj -> C:\Users\baran\Desktop\prog\grind\roi\2016\1\B\Debug\B.exe
+  B.vcxproj -> C:\Users\baran\Desktop\prog\grind\roi\2016\1\B\Debug\B.pdb (Partial PDB)

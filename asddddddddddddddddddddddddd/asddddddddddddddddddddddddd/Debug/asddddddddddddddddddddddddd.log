@@ -1,0 +1,4 @@
+﻿  asddddddddddddddddddddddddd.cpp
+c:\users\baran\desktop\prog\school_olymp\asddddddddddddddddddddddddd\asddddddddddddddddddddddddd\asddddddddddddddddddddddddd.cpp(30): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+  asddddddddddddddddddddddddd.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\asddddddddddddddddddddddddd\Debug\asddddddddddddddddddddddddd.exe
+  asddddddddddddddddddddddddd.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\asddddddddddddddddddddddddd\Debug\asddddddddddddddddddddddddd.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  Last_A.cpp
+c:\users\baran\desktop\prog\losh2018\last_a\last_a\last_a.cpp(11): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  Last_A.vcxproj -> C:\Users\baran\Desktop\prog\losh2018\Last_A\Debug\Last_A.exe
+  Last_A.vcxproj -> C:\Users\baran\Desktop\prog\losh2018\Last_A\Debug\Last_A.pdb (Full PDB)

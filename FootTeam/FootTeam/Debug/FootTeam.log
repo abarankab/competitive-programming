@@ -1,0 +1,6 @@
+﻿  FootTeam.cpp
+c:\users\baran\desktop\prog\school_olymp\footteam\footteam\footteam.cpp(140): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\footteam\footteam\footteam.cpp(145): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\footteam\footteam\footteam.cpp(150): warning C4018: '<': signed/unsigned mismatch
+  FootTeam.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\FootTeam\Debug\FootTeam.exe
+  FootTeam.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\FootTeam\Debug\FootTeam.pdb (Full PDB)

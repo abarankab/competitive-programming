@@ -1,0 +1,5 @@
+﻿  Dathday2.cpp
+c:\users\baran\desktop\prog\school_olymp\dathday2\dathday2\dathday2.cpp(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\dathday2\dathday2\dathday2.cpp(42): warning C4018: '<': signed/unsigned mismatch
+  Dathday2.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\Dathday2\Debug\Dathday2.exe
+  Dathday2.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\Dathday2\Debug\Dathday2.pdb (Full PDB)

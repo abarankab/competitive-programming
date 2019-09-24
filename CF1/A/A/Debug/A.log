@@ -1,0 +1,10 @@
+﻿  A.cpp
+c:\users\baran\desktop\prog\losh2018\cf1\a\a\a.cpp(19): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\losh2018\cf1\a\a\a.cpp(23): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\losh2018\cf1\a\a\a.cpp(32): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\losh2018\cf1\a\a\a.cpp(34): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\losh2018\cf1\a\a\a.cpp(35): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\losh2018\cf1\a\a\a.cpp(42): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\losh2018\cf1\a\a\a.cpp(43): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+  A.vcxproj -> C:\Users\baran\Desktop\prog\losh2018\CF1\A\Debug\A.exe
+  A.vcxproj -> C:\Users\baran\Desktop\prog\losh2018\CF1\A\Debug\A.pdb (Full PDB)

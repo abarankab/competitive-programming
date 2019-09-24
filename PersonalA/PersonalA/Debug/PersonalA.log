@@ -1,0 +1,8 @@
+﻿  PersonalA.cpp
+c:\users\baran\desktop\prog\school_olymp\personala\personala\personala.cpp(70): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\personala\personala\personala.cpp(71): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\personala\personala\personala.cpp(112): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\personala\personala\personala.cpp(114): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\personala\personala\personala.cpp(115): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+  PersonalA.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\PersonalA\Debug\PersonalA.exe
+  PersonalA.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\PersonalA\Debug\PersonalA.pdb (Full PDB)

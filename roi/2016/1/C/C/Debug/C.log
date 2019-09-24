@@ -1,0 +1,43 @@
+﻿  Source.cpp
+c:\users\baran\desktop\prog\grind\roi\2016\1\c\c\source.cpp(9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\tuple(164): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\tuple(304): note: see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=bool,
+              _Ty=int,
+              _Other=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\tuple(303): note: see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=bool,
+              _Ty=int,
+              _Other=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\tuple(469): note: see reference to function template instantiation 'std::tuple<bool,int>::tuple<std::_Exact_args_t,_Ty,int&,0>(_Tag,_This2 &&,int &)' being compiled
+          with
+          [
+              _Ty=int,
+              _Tag=std::_Exact_args_t,
+              _This2=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\tuple(467): note: see reference to function template instantiation 'std::tuple<bool,int>::tuple<std::_Exact_args_t,_Ty,int&,0>(_Tag,_This2 &&,int &)' being compiled
+          with
+          [
+              _Ty=int,
+              _Tag=std::_Exact_args_t,
+              _This2=int
+          ]
+  c:\users\baran\desktop\prog\grind\roi\2016\1\c\c\source.cpp(58): note: see reference to function template instantiation 'std::tuple<int,bool,int>::tuple<int&,int,int&,0>(_This2,int &&,int &)' being compiled
+          with
+          [
+              _This2=int &
+          ]
+  c:\users\baran\desktop\prog\grind\roi\2016\1\c\c\source.cpp(58): note: see reference to function template instantiation 'std::tuple<int,bool,int>::tuple<int&,int,int&,0>(_This2,int &&,int &)' being compiled
+          with
+          [
+              _This2=int &
+          ]
+  C.vcxproj -> C:\Users\baran\Desktop\prog\grind\roi\2016\1\C\Debug\C.exe
+  C.vcxproj -> C:\Users\baran\Desktop\prog\grind\roi\2016\1\C\Debug\C.pdb (Partial PDB)

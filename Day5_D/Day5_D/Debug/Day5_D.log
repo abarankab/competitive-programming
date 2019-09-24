@@ -1,0 +1,3 @@
+﻿  Day5_D.cpp
+c:\users\baran\desktop\prog\losh2018\day5_d\day5_d\day5_d.cpp(10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\Users\baran\Desktop\prog\losh2018\Day5_D\Debug\Day5_D.exe for writing

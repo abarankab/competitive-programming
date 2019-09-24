@@ -1,0 +1,29 @@
+﻿  region_d2_A.cpp
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(35): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(45): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(46): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(60): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(62): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(66): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(75): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(81): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(86): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(88): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(103): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(113): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(114): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(128): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(130): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(134): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(143): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(149): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(154): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(156): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(172): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(180): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(192): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(193): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(220): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\region_d2_a\region_d2_a\region_d2_a.cpp(221): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+  region_d2_A.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\region_d2_A\Debug\region_d2_A.exe
+  region_d2_A.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\region_d2_A\Debug\region_d2_A.pdb (Full PDB)

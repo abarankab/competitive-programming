@@ -1,0 +1,6 @@
+﻿  recount.cpp
+c:\users\baran\desktop\prog\school_olymp\recount\recount\recount.cpp(10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\recount\recount\recount.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\recount\recount\recount.cpp(147): warning C4018: '<': signed/unsigned mismatch
+  recount.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\recount\Debug\recount.exe
+  recount.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\recount\Debug\recount.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  Day2_D.cpp
+c:\users\baran\desktop\prog\losh2018\day2_d\day2_d\day2_d.cpp(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\losh2018\day2_d\day2_d\day2_d.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\losh2018\day2_d\day2_d\day2_d.cpp(156): warning C4018: '<': signed/unsigned mismatch
+  Day2_D.vcxproj -> C:\Users\baran\Desktop\prog\losh2018\Day2_D\Debug\Day2_D.exe
+  Day2_D.vcxproj -> C:\Users\baran\Desktop\prog\losh2018\Day2_D\Debug\Day2_D.pdb (Full PDB)

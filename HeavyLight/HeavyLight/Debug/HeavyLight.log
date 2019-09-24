@@ -1,0 +1,16 @@
+﻿  HeavyLight.cpp
+c:\users\baran\desktop\prog\school_olymp\heavylight\heavylight\heavylight.cpp(43): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\heavylight\heavylight\heavylight.cpp(49): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\heavylight\heavylight\heavylight.cpp(50): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\heavylight\heavylight\heavylight.cpp(64): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\heavylight\heavylight\heavylight.cpp(66): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\heavylight\heavylight\heavylight.cpp(70): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\heavylight\heavylight\heavylight.cpp(79): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\heavylight\heavylight\heavylight.cpp(85): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\heavylight\heavylight\heavylight.cpp(90): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\heavylight\heavylight\heavylight.cpp(92): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\heavylight\heavylight\heavylight.cpp(137): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\heavylight\heavylight\heavylight.cpp(152): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\heavylight\heavylight\heavylight.cpp(159): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\heavylight\heavylight\heavylight.cpp(175): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\heavylight\heavylight\heavylight.cpp(228): error C3874: return type of 'main' should be 'int' instead of '__int64'

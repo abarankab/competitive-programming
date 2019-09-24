@@ -1,0 +1,10 @@
+﻿  D.cpp
+c:\users\baran\desktop\prog\losh2018\d\d\d.cpp(18): warning C4244: 'argument': conversion from 'long double' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\losh2018\d\d\d.cpp(19): warning C4244: 'argument': conversion from 'long double' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\losh2018\d\d\d.cpp(22): warning C4244: 'argument': conversion from 'long double' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\losh2018\d\d\d.cpp(23): warning C4244: 'argument': conversion from 'long double' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\losh2018\d\d\d.cpp(26): warning C4244: 'argument': conversion from 'long double' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\losh2018\d\d\d.cpp(36): warning C4244: 'argument': conversion from 'long double' to 'unsigned int', possible loss of data
+c:\users\baran\desktop\prog\losh2018\d\d\d.cpp(39): warning C4244: 'argument': conversion from 'long double' to 'unsigned int', possible loss of data
+  D.vcxproj -> C:\Users\baran\Desktop\prog\losh2018\D\Debug\D.exe
+  D.vcxproj -> C:\Users\baran\Desktop\prog\losh2018\D\Debug\D.pdb (Full PDB)

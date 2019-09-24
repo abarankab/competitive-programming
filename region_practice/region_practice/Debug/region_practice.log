@@ -1,0 +1,5 @@
+﻿  region_practice.cpp
+c:\users\baran\desktop\prog\school_olymp\region_practice\region_practice\region_practice.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\region_practice\region_practice\region_practice.cpp(71): warning C4717: 'SegmentTree::modify': recursive on all control paths, function will cause runtime stack overflow
+  region_practice.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\region_practice\Debug\region_practice.exe
+  region_practice.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\region_practice\Debug\region_practice.pdb (Full PDB)

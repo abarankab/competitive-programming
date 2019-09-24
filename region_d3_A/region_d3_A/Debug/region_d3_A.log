@@ -1,0 +1,5 @@
+﻿  region_d3_A.cpp
+c:\users\baran\desktop\prog\school_olymp\region_d3_a\region_d3_a\region_d3_a.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\region_d3_a\region_d3_a\region_d3_a.cpp(157): warning C4018: '<': signed/unsigned mismatch
+  region_d3_A.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\region_d3_A\Debug\region_d3_A.exe
+  region_d3_A.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\region_d3_A\Debug\region_d3_A.pdb (Full PDB)

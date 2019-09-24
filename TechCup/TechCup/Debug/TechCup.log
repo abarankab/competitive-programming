@@ -1,0 +1,12 @@
+﻿  TechCup.cpp
+c:\users\baran\desktop\prog\school_olymp\techcup\techcup\techcup.cpp(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\techcup\techcup\techcup.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\techcup\techcup\techcup.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\techcup\techcup\techcup.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\techcup\techcup\techcup.cpp(91): warning C4018: '<=': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\techcup\techcup\techcup.cpp(96): warning C4018: '>': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\techcup\techcup\techcup.cpp(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\techcup\techcup\techcup.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\techcup\techcup\techcup.cpp(145): warning C4018: '<': signed/unsigned mismatch
+  TechCup.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\TechCup\Debug\TechCup.exe
+  TechCup.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\TechCup\Debug\TechCup.pdb (Full PDB)

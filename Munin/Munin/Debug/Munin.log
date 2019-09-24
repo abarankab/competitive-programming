@@ -1,0 +1,9 @@
+﻿  Munin.cpp
+c:\users\baran\desktop\prog\school_olymp\munin\munin\munin.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\munin\munin\munin.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\munin\munin\munin.cpp(197): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\munin\munin\munin.cpp(207): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\munin\munin\munin.cpp(239): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\munin\munin\munin.cpp(244): warning C4018: '<': signed/unsigned mismatch
+  Munin.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\Munin\Debug\Munin.exe
+  Munin.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\Munin\Debug\Munin.pdb (Full PDB)

@@ -1,0 +1,7 @@
+﻿  C.cpp
+c:\users\baran\desktop\prog\school_olymp\2903\c\c\c.cpp(9): warning C4068: неизвестная директива pragma
+c:\users\baran\desktop\prog\school_olymp\2903\c\c\c.cpp(21): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\baran\desktop\prog\school_olymp\2903\c\c\c.cpp(33): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\baran\desktop\prog\school_olymp\2903\c\c\c.cpp(57): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\baran\desktop\prog\school_olymp\2903\c\c\c.cpp(67): warning C4018: <: несоответствие типов со знаком и без знака
+  C.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\2903\C\Debug\C.exe

@@ -1,0 +1,5 @@
+﻿  A.cpp
+c:\users\baran\desktop\prog\school_olymp\052018\a\a\a.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\052018\a\a\a.cpp(46): warning C4018: '<': signed/unsigned mismatch
+  A.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\052018\A\Debug\A.exe
+  A.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\052018\A\Debug\A.pdb (Full PDB)

@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\baran\desktop\prog\grind\cf\545\c\c\source.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility(123): warning C4244: 'initializing': conversion from 'const __int64' to 'ld', possible loss of data
+  c:\users\baran\desktop\prog\grind\cf\545\c\c\source.cpp(87): note: see reference to function template instantiation 'std::pair<ld,ld>::pair<__int64,__int64,void,0>(const std::pair<__int64,__int64> &)' being compiled
+  c:\users\baran\desktop\prog\grind\cf\545\c\c\source.cpp(87): note: see reference to function template instantiation 'std::pair<ld,ld>::pair<__int64,__int64,void,0>(const std::pair<__int64,__int64> &)' being compiled
+  C.vcxproj -> C:\Users\baran\Desktop\prog\grind\cf\545\C\Debug\C.exe
+  C.vcxproj -> C:\Users\baran\Desktop\prog\grind\cf\545\C\Debug\C.pdb (Partial PDB)

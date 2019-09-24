@@ -1,0 +1,9 @@
+﻿  PersonalC.cpp
+c:\users\baran\desktop\prog\school_olymp\personalc\personalc\personalc.cpp(25): warning C4244: 'argument': conversion from 'ld' to 'int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\personalc\personalc\personalc.cpp(52): warning C4244: 'argument': conversion from 'ld' to 'int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\personalc\personalc\personalc.cpp(61): warning C4244: 'argument': conversion from 'ld' to 'int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\personalc\personalc\personalc.cpp(63): warning C4244: 'argument': conversion from 'ld' to 'int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\personalc\personalc\personalc.cpp(65): warning C4244: 'argument': conversion from 'ld' to 'int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\personalc\personalc\personalc.cpp(67): warning C4244: 'argument': conversion from 'ld' to 'int', possible loss of data
+  PersonalC.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\PersonalC\Debug\PersonalC.exe
+  PersonalC.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\PersonalC\Debug\PersonalC.pdb (Full PDB)

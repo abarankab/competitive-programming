@@ -1,0 +1,5 @@
+﻿  roasted.cpp
+c:\users\baran\desktop\prog\school_olymp\roasted\roasted\roasted.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\roasted\roasted\roasted.cpp(81): warning C4018: '<': signed/unsigned mismatch
+  roasted.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\roasted\Debug\roasted.exe
+  roasted.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\roasted\Debug\roasted.pdb (Full PDB)

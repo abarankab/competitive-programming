@@ -1,0 +1,5 @@
+﻿  tcup.cpp
+c:\users\baran\desktop\prog\school_olymp\tcup\tcup\tcup.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\tcup\tcup\tcup.cpp(23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  tcup.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\tcup\Debug\tcup.exe
+  tcup.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\tcup\Debug\tcup.pdb (Full PDB)

@@ -1,0 +1,10 @@
+﻿  somesome.cpp
+c:\users\baran\desktop\prog\school_olymp\somesome\somesome\somesome.cpp(13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\baran\desktop\prog\school_olymp\somesome\somesome\somesome.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\somesome\somesome\somesome.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\somesome\somesome\somesome.cpp(110): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\somesome\somesome\somesome.cpp(120): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\somesome\somesome\somesome.cpp(149): warning C4018: '<': signed/unsigned mismatch
+c:\users\baran\desktop\prog\school_olymp\somesome\somesome\somesome.cpp(159): warning C4018: '<': signed/unsigned mismatch
+  somesome.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\somesome\Debug\somesome.exe
+  somesome.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\somesome\Debug\somesome.pdb (Full PDB)

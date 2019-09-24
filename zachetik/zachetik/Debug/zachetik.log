@@ -1,0 +1,4 @@
+﻿  zachetik.cpp
+c:\users\baran\desktop\prog\school_olymp\zachetik\zachetik\zachetik.cpp(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  zachetik.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\zachetik\Debug\zachetik.exe
+  zachetik.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\zachetik\Debug\zachetik.pdb (Full PDB)

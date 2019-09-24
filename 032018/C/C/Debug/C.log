@@ -1,0 +1,4 @@
+﻿  C.cpp
+c:\users\baran\desktop\prog\school_olymp\032018\c\c\c.cpp(71): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  C.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\032018\C\Debug\C.exe
+  C.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\032018\C\Debug\C.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  ioip.cpp
+c:\users\baran\desktop\prog\school_olymp\ioip\ioip\ioip.cpp(30): warning C4244: инициализация: преобразование "long double" в "__int64", возможна потеря данных
+c:\users\baran\desktop\prog\school_olymp\ioip\ioip\ioip.cpp(55): warning C4244: инициализация: преобразование "long double" в "__int64", возможна потеря данных
+  ioip.vcxproj -> C:\Users\baran\Desktop\prog\school_olymp\ioip\Debug\ioip.exe
